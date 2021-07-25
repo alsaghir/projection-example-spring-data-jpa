@@ -1,0 +1,1 @@
+# projection-example-spring-data-jpa
